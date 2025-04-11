@@ -11,3 +11,7 @@ o
 ?src/Java_practice/JAVA_07_04_2025/Progarm_3_Fizz_buzz_test.java,4\f\4f714efc1d5b6c63a5b04d64fbcdcbc24ba198aa
 r
 Bsrc/Java_practice/JAVA_07_04_2025/String_is_palindrome_or_not.java,5\f\5fa2582fcac99e64e435031e975ccca069733b5f
+g
+7src/Java_practice/JAVA_07_04_2025/Grade_calculator.java,5\0\508a49320dc43715555b7d0bd80b71e9a615a744
+`
+0src/Java_practice/JAVA_07_04_2025/Leap_year.java,b\5\b5fe992702a4c3b950e3c20fcfc06586ff69ccac
