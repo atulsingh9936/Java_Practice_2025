@@ -15,3 +15,17 @@ g
 7src/Java_practice/JAVA_07_04_2025/Grade_calculator.java,5\0\508a49320dc43715555b7d0bd80b71e9a615a744
 `
 0src/Java_practice/JAVA_07_04_2025/Leap_year.java,b\5\b5fe992702a4c3b950e3c20fcfc06586ff69ccac
+j
+:src/Java_practice/JAVA_07_04_2025/Triangle_classifier.java,6\2\626b4d24408c110602ed12b5d05a917567c39005
+e
+5src/Java_practice/JAVA_07_04_2025/Right_Triangle.java,5\e\5ebaf88e75c331445bf23f730d872ea59f5f6d2f
+T
+$src/Java_practice/Left_triangle.java,b\c\bc269c5fbc2f5dae4574abdc64f4320b667ecb94
+d
+4src/Java_practice/JAVA_07_04_2025/Left_triangle.java,3\6\36b2d42352552cbf1210982a39d908eb9a3e58bc
+^
+.src/Java_practice/JAVA_07_04_2025/Pyramid.java,f\8\f87eaf8b9099a5b0e6775f233b3305b7f746a718
+e
+5src/Java_practice/JAVA_07_04_2025/Actual_pyramid.java,5\8\5802afc91184bca3f257ffde90dcd144ff79e6de
+f
+6src/Java_practice/JAVA_07_04_2025/Vowel_consonant.java,a\3\a348960ed4954bc84fe388dc94b1469f3d9181c8
