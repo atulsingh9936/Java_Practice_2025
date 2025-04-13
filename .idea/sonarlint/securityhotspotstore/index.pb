@@ -29,3 +29,7 @@ e
 5src/Java_practice/JAVA_07_04_2025/Actual_pyramid.java,5\8\5802afc91184bca3f257ffde90dcd144ff79e6de
 f
 6src/Java_practice/JAVA_07_04_2025/Vowel_consonant.java,a\3\a348960ed4954bc84fe388dc94b1469f3d9181c8
+c
+3src/Java_practice/JAVA_07_04_2025/Prime_number.java,b\c\bc01c3eeb3c7e7a864055e7f8053122aa60ede0d
+h
+8src/Java_practice/JAVA_07_04_2025/Palindrome_number.java,d\d\ddb94fe6c292e72b59f05f1e59e57804b0d8769c
