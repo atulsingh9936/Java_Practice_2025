@@ -10,9 +10,9 @@ public class String_is_palindrome_or_not {
         System.out.println("Original String: " + name);
         System.out.println("Reversed String: " + Reversedstring);
         if(name.equalsIgnoreCase(Reversedstring)){
-            System.out.println(name+""+"Is palindrome");
+            System.out.println(name+" "+"Is palindrome");
         }else {
-            System.out.println(name+"Is not a palindrome");
+            System.out.println(name+" "+"Is not a palindrome");
         }
     }
 }

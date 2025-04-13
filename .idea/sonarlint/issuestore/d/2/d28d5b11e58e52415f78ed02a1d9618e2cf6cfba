@@ -1,0 +1,12 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(É†ë$8úÃ÷ïâ2J$102e087c-e23b-449d-ac13-36579cf8e3c0
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ïÊùÿÿÿÿ8úÃ÷ïâ2J$0aa96f68-548a-492e-857e-24fe2fb35c0a
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œî¡X8úÃ÷ïâ2J$5282fd21-ef30-437d-9b3f-ecdac4e0e9ef
+Š
+java:S1854"BRemove this useless assignment to local variable "ReversedString".(”ïÊùÿÿÿÿ8Şâ—ğâ2J$3b1bb3ad-aa5f-4bea-a1b6-ced022163b31
+{
+java:S1481"3Remove this unused "ReversedString" local variable.(”ïÊùÿÿÿÿ8ßâ—ğâ2J$f44438a4-ade5-4dad-b127-9eee5693f0ee
+r	java:S106
+"+Replace this use of System.out by a logger.(·ŒÎ‚ûÿÿÿÿ8Ô¶ûïâ2J$2b609e0b-3b98-4eb0-accb-d7c69ee43208
+~	java:S125	"<This block of commented-out lines of code should be removed.(Ë¢§Õ8ï¿—ğâ2J$27ff0e65-145c-437c-9eab-ced5f6402a46
+]	java:S125"<This block of commented-out lines of code should be removed.(íÀ÷Œûÿÿÿÿ8ù¦šğâ2

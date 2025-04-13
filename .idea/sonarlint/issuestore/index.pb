@@ -33,3 +33,5 @@ c
 3src/Java_practice/JAVA_07_04_2025/Prime_number.java,b\c\bc01c3eeb3c7e7a864055e7f8053122aa60ede0d
 h
 8src/Java_practice/JAVA_07_04_2025/Palindrome_number.java,d\d\ddb94fe6c292e72b59f05f1e59e57804b0d8769c
+e
+5src/Java_practice/JAVA_07_04_2025/String_reverse.java,d\2\d28d5b11e58e52415f78ed02a1d9618e2cf6cfba
