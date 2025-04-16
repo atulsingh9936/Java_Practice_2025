@@ -19,8 +19,6 @@ j
 :src/Java_practice/JAVA_07_04_2025/Triangle_classifier.java,6\2\626b4d24408c110602ed12b5d05a917567c39005
 e
 5src/Java_practice/JAVA_07_04_2025/Right_Triangle.java,5\e\5ebaf88e75c331445bf23f730d872ea59f5f6d2f
-T
-$src/Java_practice/Left_triangle.java,b\c\bc269c5fbc2f5dae4574abdc64f4320b667ecb94
 d
 4src/Java_practice/JAVA_07_04_2025/Left_triangle.java,3\6\36b2d42352552cbf1210982a39d908eb9a3e58bc
 ^
@@ -35,3 +33,9 @@ h
 8src/Java_practice/JAVA_07_04_2025/Palindrome_number.java,d\d\ddb94fe6c292e72b59f05f1e59e57804b0d8769c
 e
 5src/Java_practice/JAVA_07_04_2025/String_reverse.java,d\2\d28d5b11e58e52415f78ed02a1d9618e2cf6cfba
+b
+2src/Java_practice/JAVA_07_04_2025/Factorial_1.java,6\b\6b08b869900f7a59742e71e9dce54e0ea749b149
+g
+7src/Java_practice/JAVA_07_04_2025/Fibonacci_series.java,d\0\d021b69e15ca5eb3491e72d5e69e1cae30856e4b
+a
+1src/Java_practice/JAVA_07_04_2025/palindrome.java,6\3\63e1a896e01aee0ab50cc61c609f38c57b0678a3
