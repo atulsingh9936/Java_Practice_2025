@@ -39,3 +39,7 @@ g
 7src/Java_practice/JAVA_07_04_2025/Fibonacci_series.java,d\0\d021b69e15ca5eb3491e72d5e69e1cae30856e4b
 a
 1src/Java_practice/JAVA_07_04_2025/palindrome.java,6\3\63e1a896e01aee0ab50cc61c609f38c57b0678a3
+g
+7src/Java_practice/JAVA_07_04_2025/Reverse_a_string.java,f\2\f2d93c2dd8802af41b8d4624a5d4061d5ed7219b
+h
+8src/Java_practice/JAVA_07_04_2025/Swapping_a_number.java,7\b\7b68767a2bfa6e007d63454bdefe2ae4c838d499
